@@ -1,0 +1,19 @@
+Test
+
+added index.html
+
+Steps to start from you local
+-----------------------------------
+
+1. cd to your local folder to be tracked by git
+2. git init
+3. git status
+4. git add
+5. git commit
+6. create a repo in github
+7. git remote add origin https://github.com/hhagay/githubTest.git
+8. git push -u origin master
+
+if error no upstream, type git push --set-upstream origin master
+
+if permission denied --> go here --> https://stackoverflow.com/questions/47465644/github-remote-permission-denied
