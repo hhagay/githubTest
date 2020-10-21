@@ -17,3 +17,8 @@ Steps to start from you local
 if error no upstream, type git push --set-upstream origin master
 
 if permission denied --> go here --> https://stackoverflow.com/questions/47465644/github-remote-permission-denied
+
+
+Note:
+git config --global user.email "the email you login to github"
+git config --global user.name "your github user"
