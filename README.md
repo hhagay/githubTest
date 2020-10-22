@@ -19,3 +19,12 @@ if [ -f ~/.git-completion.bash ]; then
 	. ~/.git-completion.bash
 fi
 
+
+Enabling colors
+1. check if coloring current value
+git config color.ui
+if return false
+
+2. enable 
+git config --global color.ui true
+
